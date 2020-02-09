@@ -4,6 +4,6 @@ package main
 
 import "fmt"
 
-func main() {
+func sec() {
 	fmt.Println("Hello, 世界")
 }
